@@ -1,2 +1,2 @@
 # grafikakomputer
-Render masih erroe.
+Render masih error.
