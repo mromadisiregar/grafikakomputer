@@ -1,0 +1,2 @@
+# grafikakomputer
+Render masih erroe.
